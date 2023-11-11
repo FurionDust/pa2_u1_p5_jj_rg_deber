@@ -15,7 +15,10 @@ public class Pa2U1P5JjRgDeberApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 			System.out.println("Programa para deber!");
 			System.out.println("Soy Jose Jimenez Loor");
-		
+			System.out.println("------------------------------------");
+			System.out.println("Soy el primer cambio en la rama Main");
+			System.out.println("------------------------------------");
+			
 	}
 
 }
